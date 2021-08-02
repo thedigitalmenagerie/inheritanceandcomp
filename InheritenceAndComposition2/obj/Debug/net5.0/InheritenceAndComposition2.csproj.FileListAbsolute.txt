@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.AssemblyInfo.cs
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\InheritenceAndComposition2.exe
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\InheritenceAndComposition2.deps.json
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\InheritenceAndComposition2.runtimeconfig.json
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\InheritenceAndComposition2.runtimeconfig.dev.json
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\InheritenceAndComposition2.dll
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\ref\InheritenceAndComposition2.dll
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\bin\Debug\net5.0\InheritenceAndComposition2.pdb
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.dll
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\ref\InheritenceAndComposition2.dll
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.pdb
+C:\Users\honey\source\repos\InheritenceAndComposition2\InheritenceAndComposition2\obj\Debug\net5.0\InheritenceAndComposition2.genruntimeconfig.cache
